@@ -1,3 +1,4 @@
 Laravel 5.2 Example Project
 
-Laravel 5.2
+Laravel 5.2.* (LTS)
+
